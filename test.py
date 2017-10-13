@@ -1,4 +1,4 @@
-# simple test of vtk tool
+# python script for creating granular plot 
 # requires files/dump.*
 # creates tmp*.vtk
 d = dump("dump_t.*")
